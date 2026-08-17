@@ -24,7 +24,7 @@ This is a clean, interactive, web-based version of the classic **Rock, Paper, Sc
 
 ## 🚀 Live Demo
 
-> **[Play the game here!](https://yourusername.github.io/your-repo-name)** 
+> **[Play the game here!](https://vaibhav-bhavsarr.github.io/rock-paper-scissors-web/)** 
 *(Update this link once you activate GitHub Pages!)*
 
 ## 📸 Screenshots
