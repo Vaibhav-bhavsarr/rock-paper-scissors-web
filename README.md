@@ -25,7 +25,6 @@ This is a clean, interactive, web-based version of the classic **Rock, Paper, Sc
 ## 🚀 Live Demo
 
 > **[Play the game here!](https://vaibhav-bhavsarr.github.io/rock-paper-scissors-web/)** 
-*(Update this link once you activate GitHub Pages!)*
 
 ## 📸 Screenshots
 
@@ -45,3 +44,6 @@ To run and play this game on your own machine, follow these simple steps:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
+
+2. Open the newly downloaded project folder on your computer.
+3. Right-click the index.html file, select Open with, and choose your favorite web browser (like Google Chrome, Firefox, or Microsoft Edge). Alternatively, you can drag and drop the index.html file directly into an open browser tab to start playing!
