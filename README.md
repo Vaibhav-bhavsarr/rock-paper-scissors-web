@@ -28,11 +28,11 @@ This is a clean, interactive, web-based version of the classic **Rock, Paper, Sc
 
 ### 📸 Screenshots
 
-![Game Screenshot 1](1.png)
+![Game Screenshot 1](images/1.png)
 <br>
-![Game Screenshot 2](2.png)
+![Game Screenshot 2](images/2.png)
 <br>
-![Game Screenshot 3](3.png)
+![Game Screenshot 3](images/3.png)
 
 ## 💻 Tech Stack
 
