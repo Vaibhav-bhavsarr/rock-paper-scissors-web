@@ -26,10 +26,13 @@ This is a clean, interactive, web-based version of the classic **Rock, Paper, Sc
 
 > **[Play the game here!](https://vaibhav-bhavsarr.github.io/rock-paper-scissors-web/)** 
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-*(Upload a screenshot of your game to your repository and replace this text with the image link!)*
-`![Game Screenshot](link-to-your-image.png)`
+![Game Screenshot 1](1.png)
+<br>
+![Game Screenshot 2](2.png)
+<br>
+![Game Screenshot 3](3.png)
 
 ## 💻 Tech Stack
 
